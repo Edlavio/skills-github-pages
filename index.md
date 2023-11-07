@@ -1,4 +1,4 @@
 ---
-title: Learning Github Allin Africa
+title: All in Africa
 ---
 
